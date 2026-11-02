@@ -34,14 +34,14 @@ Litany for each such witness who gets away.
 | Quiet | under 20 | Nobody outside is talking about wolves |
 | Rumours | 20 | Travellers tell stories. Hunters start visiting as travellers, carrying silver |
 | Hunted | 50 | The stories reached hunters. Bands of them come by day |
-| Exposed | 80 | The Mendicant Order sends everything it has. The Free Rangers think 30 less of you |
+| Exposed | 80 | The hunting order sends everything it has. The septs think 30 less of you |
 
 A letter marks each level. The Sept tab shows the score. The setting "The Veil" turns witnesses
 and the hunters they bring off.
 
 ## Hunters
 
-The Mendicant Order, the hunters of The Rim by Night: Core.
+A hunting order, the hunters of The Rim by Night: Core.
 
 - **The raid** comes by day once the Veil is Hunted, a probing band below Exposed and the whole
   order at Exposed. The band pulls back at nightfall. It also needs Core's hunter setting.
@@ -50,9 +50,11 @@ The Mendicant Order, the hunters of The Rim by Night: Core.
 - **Visits.** From Rumours on, hunters come as travellers now and then, more often as the Veil
   falls.
 
-## The Free Rangers
+## The septs' faction
 
-The first time the colony has a Garou, the Free Rangers appear: three septs 6 to 20 tiles away,
+The septs trade as an ordinary-looking faction whose name, color, people and post labels change every game, so its name tells you nothing.
+
+The first time the colony has a Garou, the septs appear: three septs 6 to 20 tiles away,
 with a letter. It's a faction like any other, though it never raids.
 
 - **Each sept** leans to a tribe and keeps a caern of a type and level, shown on the world map.

@@ -39,7 +39,7 @@ A fourteenth tribe, the Black Spiral Dancers, belongs to the Wyrm and is never t
 ### Tribal grudges
 
 Some tribes have old quarrels. Two Garou of feuding tribes think 10 less of each other, halved
-when they're packmates. Kinfolk don't hold grudges. A sept of the Free Rangers whose tribe has a
+when they're packmates. Kinfolk don't hold grudges. A sept whose tribe has a
 grudge with your colony's starts out liking you less.
 
 | Tribe | Feuds with |

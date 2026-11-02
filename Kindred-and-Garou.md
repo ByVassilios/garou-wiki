@@ -51,7 +51,7 @@ A colony can hold both, and it's tense.
   Glass Walkers and Bone Gnawers half as much.
 - A Garou rolls for frenzy when a colony vampire feeds in sight, once a day at most.
 - Vampires within 12 cells of the colony's Garou are uneasy.
-- The Free Rangers lose 2 goodwill a day while the colony keeps both.
+- The septs lose 2 goodwill a day while the colony keeps both.
 - A Garou who strikes someone fighting the colony's vampire breaks the Litany's "Fight the Wyrm",
   once a day.
 - Opinion between a Garou and a vampire can still grow as any colonists' does.

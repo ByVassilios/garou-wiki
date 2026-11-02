@@ -98,7 +98,7 @@ guarded by First Team mercenaries and fomori. While it stands, its runoff seeps 
 within 8 tiles every few days, and it sends its First Team now and then.
 
 Send a caravan, clear it, and leave its map with no enemy standing: it closes for good, and each
-Garou who was there earns 3 Glory. Septs of the Free Rangers also ask for this as a mission.
+Garou who was there earns 3 Glory. Septs also ask for this as a mission.
 
 Two rarer sites turn up later in a game, cleared the same way:
 

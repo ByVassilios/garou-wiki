@@ -105,7 +105,7 @@ right, each of the colony's Garou shows tonight's Rage and how many days until t
 | The Wyrm comes | Caern Building has started, and a raid is on its way |
 | Wyrm taint, Lost to the Wyrm | A Garou is close to the end of the Thrall's road, or past it |
 | The Veil: rumours, hunted, exposed | The Veil has fallen to a new level |
-| The Free Rangers | The septs have noticed you |
+| The septs | The septs have noticed you |
 | Pulled across | A Garou was dragged into the Penumbra |
 | Witnesses on the map | Outsiders who saw something and haven't left yet |
 | Gnosis spent | Garou with no Gnosis left: no Gifts that cost it, no stepping sideways |

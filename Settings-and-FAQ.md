@@ -50,7 +50,7 @@ raid.
 ## FAQ
 
 **Can I add this to an existing save?**
-Yes. Nothing changes until someone becomes Garou. The Free Rangers appear the first time the
+Yes. Nothing changes until someone becomes Garou. The septs appear the first time the
 colony has a Garou.
 
 **Can I remove it from a save?**

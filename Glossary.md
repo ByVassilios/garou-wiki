@@ -31,7 +31,7 @@ The words Garou use, as the mod uses them.
 | Moot | The sept's gathering at the full moon |
 | Caern | A place of power the Garou have woken |
 | Sept | The Garou who hold a caern |
-| The Free Rangers | All the tribes together and their septs, under the name outsiders know |
+| The septs' faction | All the tribes together and their septs, under a name that changes every game |
 | Pack | Garou bound to one totem |
 | Totem | The spirit a pack or tribe follows |
 | Ban | What a totem forbids its pack |

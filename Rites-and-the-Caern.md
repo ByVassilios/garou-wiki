@@ -190,7 +190,7 @@ point of Honor. Left alone, they leave after half a day.
 
 The Rite of the Opened Bridge needs a pathstone, carried or lying near the ritemaster. One lies on
 about one Penumbra map in ten, guarded by a spirit, and a sept sometimes pays one for a mission.
-It needs a sept of the Free Rangers that isn't hostile, and rolls Wits plus Enigmas at 8 less the
+It needs a sept that isn't hostile, and rolls Wits plus Enigmas at 8 less the
 caern's level, three dice more when the pack's totem is the caern's.
 
 The bridge runs for a year from the caern to that sept. **Cross the bridge**, on the caern, sends

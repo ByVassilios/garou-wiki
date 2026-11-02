@@ -42,7 +42,7 @@ every Gift, rite, totem and fetish, each tab and menu, the events, and the setti
 | [Fetishes and talens](Fetishes-and-Talens.md) | Attuning, waking, making them, every fetish and talen |
 | [The Umbra and spirits](The-Umbra-and-Spirits.md) | The Penumbra, stepping sideways, spirits and chiminage |
 | [The Wyrm](The-Wyrm.md) | Taint, fomori, banes, Black Spiral Dancers, Pentex |
-| [The Veil, septs and hunters](The-Veil-and-Septs.md) | Witnesses, the Veil, the Free Rangers, sept offices, hunters |
+| [The Veil, septs and hunters](The-Veil-and-Septs.md) | Witnesses, the Veil, the septs, sept offices, hunters |
 | [Kindred and Garou](Kindred-and-Garou.md) | What happens with The Rim by Night: Kindred loaded too |
 
 **Help**

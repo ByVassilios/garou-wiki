@@ -112,7 +112,7 @@ The setting "Kinfolk events" turns the joiners and lost cubs off.
 
 ### The homestead
 
-When the Free Rangers are placed, the colony's kinfolk get a settlement of their own, a friendly
+When the septs are revealed, the colony's kinfolk get a settlement of their own, a friendly
 faction 3 to 6 tiles from home. It trades as a sept does, and kin join the colony twice as often.
 
 Now and then the village calls for help: a Pentex outpost 1 to 3 tiles from it. Clear it, and the
@@ -149,7 +149,7 @@ A cub needs the Rite of Passage to become a Cliath.
 Now and then a letter tells of a young Garou alone after a First Change they don't understand:
 Homid most of the time, sometimes Lupus, rarely Metis. **Take them in**, and they arrive at the
 map edge as a cub, half the time with hunters or the Wyrm on their heels. Taking one in pleases
-the Free Rangers. **Turn them away**, and they're gone.
+the septs. **Turn them away**, and they're gone.
 
 A colony with no Garou at all can get a **stray cub** instead, more rarely: the same youth, but
 nobody there knows what they are, so the letter only speaks of a hurt stranger at the edge of
