@@ -20,6 +20,8 @@ Four scenarios start you with Garou.
 | Kinfolk family | Five kinfolk, one of whom has the blood to Change |
 | Lost tribe | Three Garou and two kinfolk, all of one tribe, already a pack |
 
+Each colonist in these scenarios starts with one random weapon in hand, picked from the scenario's own list. Some scenarios add a steel helmet, a robe or both. None of the weapons are silver.
+
 To make your own, add the "starting Garou" part in the scenario editor. It sets how many of the
 first colonists are Garou, how many after them are kinfolk, whether the Garou are cubs, whether
 they start as a pack, and whether everyone is of one tribe.
