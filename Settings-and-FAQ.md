@@ -107,6 +107,11 @@ They're out of Gnosis. Walk them to a thin spot, the glowing places out in the w
 The Veil is falling. Deal with witnesses before they leave, keep Crinos out of sight of
 outsiders, and the score fades by a point a day.
 
+**Will a town I visit again have the same people?**
+
+Yes. Every town the colony walks into keeps its people between visits, unless they died or left. A friendly town
+stays friendly while you're there: its people only turn on you if the faction does.
+
 **Where do I look something up in game?**
 The [grimoire](Interface.md#the-grimoire), the book button in the bottom-right corner. Type a
 question into its search.

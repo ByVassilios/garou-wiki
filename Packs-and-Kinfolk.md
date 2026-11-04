@@ -112,7 +112,7 @@ The setting "Kinfolk events" turns the joiners and lost cubs off.
 
 ### The homestead
 
-When the septs are revealed, the colony's kinfolk get a settlement of their own, a friendly
+Once a sept has made contact, the colony's kinfolk get a settlement of their own, a friendly
 faction 3 to 6 tiles from home. It trades as a sept does, and kin join the colony twice as often.
 
 Now and then the village calls for help: a Pentex outpost 1 to 3 tiles from it. Clear it, and the

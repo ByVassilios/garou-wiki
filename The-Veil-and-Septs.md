@@ -54,8 +54,12 @@ A hunting order, the hunters of The Rim by Night: Core.
 
 The septs trade as an ordinary-looking faction whose name, color, people and post labels change every game, so its name tells you nothing.
 
-The first time the colony has a Garou, the septs appear: three septs 6 to 20 tiles away,
-with a letter. It's a faction like any other, though it never raids.
+3 to 8 days after the colony's first Garou, the nearest sept sends a letter naming only itself. It's
+a faction like any other, though it never raids.
+
+The other septs stay off the world map one by one until you learn of them. A letter from a sept shows
+it, your Garou can meet its people, and a sept you know will now and then vouch for another. News of a
+sept you haven't met doesn't reach you, though once you know one sept you hear that a new one was founded, with no name or place.
 
 - **Each sept** leans to a tribe and keeps a caern of a type and level, shown on the world map.
   A sept whose tribe has a grudge with yours starts out liking you less.

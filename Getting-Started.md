@@ -2,7 +2,7 @@
 
 ## Install
 
-You need RimWorld 1.6, Harmony and The Rim by Night: Core. Load order: Harmony, Core, then
+You need RimWorld 1.6 or 1.7, Harmony and The Rim by Night: Core. Load order: Harmony, Core, then
 Garou. No DLC is needed. The Rim by Night: Kindred can load alongside it; see
 [Kindred and Garou](Kindred-and-Garou.md).
 

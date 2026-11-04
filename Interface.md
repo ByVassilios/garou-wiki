@@ -74,7 +74,7 @@ setting "Power tiles" off for one button per Gift.
 | A caravan at a sept | Rank challenge | Asks the elders to set a challenge. See [Rank challenges](The-Veil-and-Septs.md#rank-challenges) |
 | A caravan at a sept | Cross the bridge home | Takes the Opened Bridge back to the caern |
 | Misc build menu | Place of power | Marks the spot for a caern |
-| A drafted colonist | Unleash | On a drafted colonist, beside Fire at will. It goes after the nearest enemy anywhere on the map and fights as an enemy of its kind would: powers first, closing in unseen, pulling back to heal when badly hurt. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it |
+| A drafted colonist | Unleash | On a drafted colonist, beside Fire at will. It goes after the nearest enemy anywhere on the map and fights as an enemy of its kind would: powers first, closing in unseen, pulling back to heal when badly hurt. Anyone with a gun backs away from melee fighters and looks for cover. A pawn scared by a power stays on the map and goes back to the fight when the panic ends. Your orders come first, and once one is done it goes back to the hunt. Undrafting ends it. While it's on, a **Pick target** button chooses the enemy it goes after. Once that enemy is down or gone it picks the nearest one again, and clicking the button clears the target early. A power aimed out of range or out of sight walks the pawn closer, then casts. |
 
 ## The Kinfolk tab
 
