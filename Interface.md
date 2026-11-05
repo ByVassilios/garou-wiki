@@ -64,6 +64,11 @@ tribe's, and "other Gifts". Click an icon to use it, right-click it to read the 
 grimoire, and click the tile's name for the breed's, auspice's or tribe's page. Turn the Core
 setting "Power tiles" off for one button per Gift.
 
+**Dice pools.** Hover a Gift to see the roll it makes: each part with its dice (Charisma 3,
+Primal-Urge 2, the Long Vigil +1), the total and the difficulty. A difficulty set by the target reads as
+a rule until the Gift is aimed ("against the target's Willpower"). The roll log puts the same parts in
+a grey line under each roll, and a Gift's grimoire page has the formula in a box at the top.
+
 ## Other buttons
 
 | Where | Button | What it does |
