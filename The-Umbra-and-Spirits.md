@@ -121,13 +121,27 @@ cells, and pick **Talk to ...**. Spirits won't help for nothing: each asks its c
 offering carried in the inventory (wood or berries, silver or gold, steel or components, kibble
 or pemmican) or, sometimes, a bane driven off. Each kind has two offerings, and a spirit takes
 whichever of them the Garou carries. The Step sideways tooltip and the spirit's grimoire page list
-them. Once it's paid, ask it to:
+them.
 
-- **teach a Gift** whose teacher is its kind (lunes teach rites too);
-- **give Gnosis**, filling the Garou's Gnosis;
-- after a lesson and Gnosis, **a favor** of its kind: nature spirits cleanse blight, water spirits
-  heal wounds, animal spirits send their kin home, elementals cross over as an ally for a day, and
-  Weaver spirits repair the colony's buildings.
+The talk window opens, with the price at the top. Pick what to ask for:
+
+- **its favor**, filling the Garou's Gnosis;
+- **its Charm**, a favor of its kind: nature spirits cleanse blight, water spirits heal wounds,
+  animal spirits send their kin home, elementals cross over as an ally for a day, and Weaver
+  spirits repair the colony's buildings;
+- **a lesson**, picked from the Gifts whose teacher is its kind (lunes teach rites too).
+
+Then pick how to bargain. The Garou haggles first, then pays from what they carry:
+
+| Way | Roll | Each success | If it goes wrong |
+|---|---|---|---|
+| Respectfully | Charisma + Social at 6 | 15% off | A failure pays the full price |
+| Flatter | Manipulation + Social at 7 | 15% off | A botch offends it |
+| Threaten | Strength + Social at 8 | 25% off | A failure offends it |
+
+The price never goes below half. An offended spirit asks half again and gives nothing this time.
+Three successes also win a warning: the spirit tells of a Wyrm nest nearby, which goes on the map
+(see [Pentex](The-Wyrm.md#pentex)). A spirit bargains two to four times a day.
 
 Paying chiminage is a promise kept: a point of Wisdom. Then the spirit asks again for the next
 favor. A paid spirit is also willing to go into a fetish or talen.

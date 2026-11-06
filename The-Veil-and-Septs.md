@@ -21,6 +21,16 @@ away. Kinfolk, fomori and the colony's own don't count.
 **Dealing with them.** Kill, imprison or recruit a witness before they leave the map, or make
 them forget. The "Witnesses on the map" alert lists everyone left.
 
+**Talking them out of it.** Select any colonist, right-click the witness and pick **Talk ... out
+of what they saw**. You get two tries a day:
+
+| Way | Roll | What happens |
+|---|---|---|
+| Explain it away | Manipulation + Social at 7 | On a success they believe it was nothing |
+| Bribe | 40 silver | They always take it. Seven in ten keep quiet; the rest talk anyway, and you aren't told |
+| Threaten | Strength + Social at 7 | On a success they swear to keep quiet. On a failure they run, and a witness who runs off the map counts |
+| Delirium | A point of Rage | A Garou lets them see the wolf for a heartbeat, and the Delirium takes the memory. Always works |
+
 ### The score
 
 Each witness who leaves the map adds to the Veil score: 10 for one who remembers, 3 for one who
@@ -69,6 +79,8 @@ sept you haven't met doesn't reach you, though once you know one sept you hear t
   banes a sept's Theurges saw coming, which cross into your map a few hours after you accept. Each
   done is worth 15 goodwill; one let lapse after 15 days costs 7. Taking in a lost cub is worth 15
   too.
+- **Talking.** In a sept's town, select a colonist and right-click anyone of the sept to **Talk
+  to** them. See [Talking to people](#talking-to-people).
 - **Help.** When the Wyrm raids and the Nation is your ally, half the time a pack of three sept
   Garou arrives to fight beside you. With an Opened Bridge, they come at once.
 - **Moon bridges.** Gifts that open moon bridges reach twice as far to a sept or caern.
@@ -82,6 +94,43 @@ happens, and shutting the plant down earns 10 goodwill with the Nation on top of
 the Nation is short of the septs it started with, it founds a new one about once a year. With
 Kindred loaded, septs fight the vampire courts near them, and with Imbued, hunter cells hunt them.
 A sept no rival can reach may be struck by the Wyrm instead.
+
+### Talking to people
+
+Select a colonist and right-click someone to talk to them: a prisoner (**Question ...**), a witness,
+or someone in a sept's, court's or hunter cell's town (**Talk to ...**). Your colonist walks over and
+the talk window opens. Pick what to ask about, then how to put it. Each way shows its roll under the
+button.
+
+| Way | Roll |
+|---|---|
+| Kindly | Charisma + Social at 6 |
+| Firmly | Manipulation + Social at 6 |
+| Threaten | Strength + Social at 7. It hurts their mood |
+| Bribe | 40 silver, always answers. A Garou of the sept costs double and its leader triple |
+| Renown | Charisma + Social, plus a die for each rank, at 6. Only with Garou and Kinfolk |
+
+Each roll is a point harder against anything supernatural. Nobody lies, so a poor roll just gets
+nothing.
+
+**Prisoners.** Any Garou can question a prisoner, two to four times a day. Ask where it comes from
+(its home goes on the map), what it knows, or what it is (a monster you took for a mortal gives
+itself away). A fomor or a Pentex agent names a Pentex site, and a Black Spiral Dancer the way to its
+Hive. A threat hurts the prisoner's mood and makes it harder to recruit, but leaves no wounds.
+
+**Townsfolk.** Each person in a town answers one question, then wants three days before the next (a
+setting). You can ask:
+
+- **What's the news?** Word of the world's septs, courts and cells.
+- **Where is...** A sept's Garou and Kin tell a Garou of a Wyrm nest. Garou speaking to Garou also
+  get the nearest sept you don't know yet.
+- **Have you seen...** A colonist someone took. The settlement holding them goes on the map.
+- **What troubles you?** The Wyrm has dug in near the sept: a Pentex site or a corrupted factory
+  to clear.
+
+A threat costs the town 3 goodwill whatever the roll. A Garou talking in a court's or a cell's town
+passes for an ordinary visitor. Asking kindly and bribing are safe. A threat gives it away one time
+in five, a failed roll one in ten and a botch one in two. Found out, the town turns on the colony.
 
 ### When a sept falls
 

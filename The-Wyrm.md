@@ -100,6 +100,9 @@ within 8 tiles every few days, and it sends its First Team now and then.
 Send a caravan, clear it, and leave its map with no enemy standing: it closes for good, and each
 Garou who was there earns 3 Glory. Septs also ask for this as a mission.
 
+A captured fomor or Pentex agent can be made to name a site, a Black Spiral Dancer a Hive, and a
+spirit or a sept may warn of one (see [Talking to people](The-Veil-and-Septs.md#talking-to-people)).
+
 Two rarer sites turn up later in a game, cleared the same way:
 
 | Site | What's there |
