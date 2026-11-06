@@ -122,8 +122,9 @@ Hive. A threat hurts the prisoner's mood and makes it harder to recruit, but lea
 setting). You can ask:
 
 - **What's the news?** Word of the world's septs, courts and cells.
-- **Where is...** A sept's Garou and Kin tell a Garou of a Wyrm nest. Garou speaking to Garou also
-  get the nearest sept you don't know yet.
+- **Where is...** Pick a place from what they could know of: a Wyrm nest (a sept's Garou and Kin,
+  to a Garou), or another sept you don't know yet (Garou speaking to Garou). The question only
+  shows up when there's somewhere to ask about.
 - **Have you seen...** A colonist someone took. The settlement holding them goes on the map.
 - **What troubles you?** The Wyrm has dug in near the sept: a Pentex site or a corrupted factory
   to clear.
