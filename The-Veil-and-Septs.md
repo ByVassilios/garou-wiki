@@ -79,6 +79,13 @@ sept you haven't met doesn't reach you, though once you know one sept you hear t
   banes a sept's Theurges saw coming, which cross into your map a few hours after you accept. Each
   done is worth 15 goodwill; one let lapse after 15 days costs 7. Taking in a lost cub is worth 15
   too.
+- **More missions** from the nearest sept you know: host a small moot of its Garou for a day and a
+  half while the Wyrm's creatures come for them, lend it one of your Garou for five days (they come
+  back with 2 Honor), clear a bane nest where the Gauntlet wore through, or break a fomori camp and
+  take in the Kinfolk found alive there. Each pays a fetish or a pathstone and 10 goodwill; one let
+  lapse costs 5.
+- **Totem tasks and vengeance** show in the Quests tab while they last: the totem's task for this
+  lunar cycle, and an oath to avenge a fallen sept.
 - **Talking.** In a sept's town, select a colonist and right-click anyone of the sept to **Talk
   to** them. See [Talking to people](#talking-to-people).
 - **Help.** When the Wyrm raids and the Nation is your ally, half the time a pack of three sept
