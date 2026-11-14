@@ -151,6 +151,30 @@ or failed, it falls by 1.
 | Uktena | clear a bane nest (a mission) |
 | Wendigo | answer a wrong against the land (a mission) |
 
+### Hosting a moot
+
+With a caern and the Nation's goodwill, the colony can host moots. A sept writes when one opens,
+and the Sept tab has an "Ask to host a moot" link for the highest one open now (greyed with the
+reason when none is). Each is hosted once a year at most.
+
+| Goodwill | Moot | Nights | Needs |
+|---|---|---|---|
+| 20 | The neighbours' moot | 1 | a caern |
+| 40 | A Hearing: a famous pack's tale, then the colony judges its Renown | 2 | a caern of level 2 |
+| 60 | A Grand Moot of the host's tribe, kept the tribe's own way, then a council | 2 | a caern of level 3, a sept office held |
+| 80 | A Concolation: five elders speak, the great matter is voted, a war party sets out | 3 | a caern of level 4, an office, a host of rank 4; a season's notice |
+
+The preparation window lists meals for every guest and night and fighters on guard. The Wyrm may
+strike on one night. Each tribe's Grand Moot opens with its custom: the Furies' sacred hunt, the
+Gnawers' feast and old debts, the Children of Gaia's meditation or revel, the Fianna's epics, the
+Fenris brawls and ordeals, the Walkers' planning meeting, the Talons' run with wolves, the Shadow
+Lords' pomp under a storm, the Striders' races and tales, the Fangs' candle-lit procession, the
+Stargazers' riddles, the Uktena's hidden lore and the Wendigo's old ways. The host's skill rolls
+decide each night. A good showing pays goodwill and Renown; a Grand Moot or Concolation that goes
+well names the host to an office at a neighbour sept: once a season it can call the sept's
+fighters and sit in judgment (a Social roll), and each year the sept sends 300 silver and a talen.
+The Concolation's vote can set the colony on a Pentex or bane nest mission.
+
 A guest who dies or is hurt in your care costs 10 goodwill and the sept's chronicle remembers it.
 
 The Nation goes on without you, and the Sept tab keeps its news. Elders are challenged, cubs go
