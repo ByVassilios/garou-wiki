@@ -31,7 +31,7 @@ worked in Crinos adds nothing; the war form is breach enough.
 ## Learning a Gift
 
 Open the Garou tab, **Gifts** page, and press **Learn a Gift...**. The list shows the Garou's own
-Gifts first. **Gifts of other breeds, auspices and tribes...** opens the rest.
+Gifts first, then everyone else's. The list on the left narrows it to the breed, the auspice, the tribe or **Other lists**, and to one rank.
 
 A Gift needs three things:
 

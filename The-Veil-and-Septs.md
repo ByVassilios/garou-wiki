@@ -92,6 +92,30 @@ sept you haven't met doesn't reach you, though once you know one sept you hear t
   Garou arrives to fight beside you. With an Opened Bridge, they come at once.
 - **Moon bridges.** Gifts that open moon bridges reach twice as far to a sept or caern.
 
+### Requests from the Nation
+
+Once the colony knows a friendly sept, its Garou ask things of you now and then. Each request comes
+as a letter in the Quests tab that you accept or refuse; each has its own switch in the settings.
+
+- **Rescues.** A wounded Garou with fomori an hour or two behind asks to be let in for a day; a
+  Ronin cast out by its sept begs five days' shelter (this costs 6 goodwill with the Nation up
+  front, and kept safe to the end the Ronin joins you); a Garou pinned with silver is left at the
+  map's edge for hunters, and once carried to a bed the silver comes out and the hunters come
+  looking. A life saved is 3 Honor, and the sept owes you aid.
+- **The septs' debt.** Each debt is one pack sent to fight beside you. Call it in from the Sept tab
+  with "Call in the septs' debt".
+- **Theurges.** Your caern and fetishes draw Theurges of other septs. A caern level counts 5, each
+  fetish 2 a level, talens 1 each up to 5. At 6, 15 and 30 points a Theurge asks to commune at the
+  caern or sit with a fetish for 2, 4 or 6 nights, for 1 to 3 Honor and goodwill.
+- **The Uktena** ask for any Wyrm-tainted fetish you keep, to lock it away: 2 Honor, 2 Wisdom and
+  8 goodwill. Refuse and each of your Uktena loses 2 regard with the tribe.
+- **Black Spiral Dancers** raid at night for a fetish of level 3 or more, and the letter says which.
+- **Teaching.** A sept Garou asks one of yours to teach a Gift or rite it knows: right-click the
+  guest with the teacher, one lesson a night. All lessons given earn W20's Honor and Wisdom for
+  teaching and 5 goodwill; leaving lessons ungiven costs 4.
+
+A guest who dies or is hurt in your care costs 10 goodwill and the sept's chronicle remembers it.
+
 The Nation goes on without you, and the Sept tab keeps its news. Elders are challenged, cubs go
 through the First Change, and packs go after the Wyrm and don't come back. A caern can grow
 stronger or lose a level to banes, and a caern that loses its last level falls: the sept is gone

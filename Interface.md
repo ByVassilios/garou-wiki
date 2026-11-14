@@ -92,7 +92,7 @@ stand with, and **Join a pack...**. See [Packs and kinfolk](Packs-and-Kinfolk.md
 
 ## The Sept tab
 
-On the bar at the bottom of the screen. It shows the Veil's level and score and, once the colony
+On the bar at the bottom of the screen. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and chips at the top right of each window switch to the others; the Core setting **One bottom-bar button** turns that off. It shows the Veil's level and score and, once the colony
 has a caern, the sept's offices. Click an office to seat a Garou in it or leave it vacant. See
 [The colony as a sept](The-Veil-and-Septs.md#the-colony-as-a-sept).
 
@@ -123,6 +123,10 @@ right, each of the colony's Garou shows tonight's Rage and how many days until t
 
 While the colony has a Garou, tonight's moon shows beside the clock at the bottom right. Click it
 for the moon calendar.
+
+## Choice lists
+
+Most menus open a list beside the window you clicked in, or above the gizmo. A long list has filters down the left with a count beside each, and **Can pick only** hides what can't be had yet. Click a row to read about it on the right, then press **Choose**, double-click it, or press Enter. A greyed row says under it what's missing. A list with nothing to read takes the row on one click.
 
 ## The grimoire
 
