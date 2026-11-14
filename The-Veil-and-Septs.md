@@ -128,6 +128,29 @@ as a letter in the Quests tab that you accept or refuse; each has its own switch
     a debt;
   - lend a Kinfolk with a skill of 8 or more for a season: goodwill and a debt when they're back.
 
+### The tribes' requests
+
+From Fostern (rank 2) on, a Garou's own tribe asks things of it, about one request a season
+between all the tribes. The Character tab shows each Garou's regard with its tribe, from -10 to 10.
+A request done raises it by 1 at Fostern, 2 at Adren and 3 at Athro or higher, with Renown; refused
+or failed, it falls by 1.
+
+| Tribe | What it asks |
+|---|---|
+| Black Furies | guard a sacred grove on your land for 15 days; the Wyrm may come |
+| Bone Gnawers | 20 meals for a poor settlement |
+| Children of Gaia | host two quarrelling septs' Garou for a night and settle it |
+| Fianna | tell a visiting Galliard the colony's tale (a Social roll) |
+| Get of Fenris | raze a Pentex site (a mission) |
+| Glass Walkers | 6 components |
+| Red Talons | drive a human camp out of the wild (a mission) |
+| Shadow Lords | back a Shadow Lord's rise (4 goodwill with the Nation) |
+| Silent Striders | run a message: the Garou is away 6 days |
+| Silver Fangs | lead any rite within the season |
+| Stargazers | answer a visiting Stargazer's riddle (an Intellectual roll) |
+| Uktena | clear a bane nest (a mission) |
+| Wendigo | answer a wrong against the land (a mission) |
+
 A guest who dies or is hurt in your care costs 10 goodwill and the sept's chronicle remembers it.
 
 The Nation goes on without you, and the Sept tab keeps its news. Elders are challenged, cubs go
