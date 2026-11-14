@@ -114,6 +114,20 @@ as a letter in the Quests tab that you accept or refuse; each has its own switch
   guest with the teacher, one lesson a night. All lessons given earn W20's Honor and Wisdom for
   teaching and 5 goodwill; leaving lessons ungiven costs 4.
 
+- **Favours**, about one letter every ten days between them:
+  - keep a wounded elder for a season (half the time the Wyrm finds it here): 3 Honor, 10 goodwill
+    and a debt;
+  - keep a sept's fetish for a season; it comes by drop pod, and the sept takes it back from a home
+    map at the end (3 Honor, 10 goodwill and a debt; missing, 15 goodwill lost);
+  - foster a cub: three lessons from a Garou of rank 2 or more, 2 Honor, 2 Wisdom and 10 goodwill;
+  - let a hunting pack run your land for two days (about four wild animals go with them);
+  - hand over a weapon or work of art of good quality or better as a fetish's housing: 2 Honor,
+    10 goodwill and a talen back;
+  - neutral ground for two feuding packs of two septs, one night at the caern or best hall;
+  - a Garou maimed by silver asks a doctor of Medicine 8 or more to operate: 2 Honor, goodwill and
+    a debt;
+  - lend a Kinfolk with a skill of 8 or more for a season: goodwill and a debt when they're back.
+
 A guest who dies or is hurt in your care costs 10 goodwill and the sept's chronicle remembers it.
 
 The Nation goes on without you, and the Sept tab keeps its news. Elders are challenged, cubs go
