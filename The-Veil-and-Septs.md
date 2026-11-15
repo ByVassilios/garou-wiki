@@ -119,7 +119,7 @@ as a letter in the Quests tab that you accept or refuse; each has its own switch
     and a debt;
   - keep a sept's fetish for a season; it comes by drop pod, and the sept takes it back from a home
     map at the end (3 Honor, 10 goodwill and a debt; missing, 15 goodwill lost);
-  - foster a cub: three lessons from a Garou of rank 2 or more, 2 Honor, 2 Wisdom and 10 goodwill;
+  - foster a cub: three lessons from a Garou of rank 2 or more, 2 Honor, 2 Wisdom and 10 goodwill; the cub goes home once taught, or after a season;
   - let a hunting pack run your land for two days (about four wild animals go with them);
   - hand over a weapon or work of art of good quality or better as a fetish's housing: 2 Honor,
     10 goodwill and a talen back;

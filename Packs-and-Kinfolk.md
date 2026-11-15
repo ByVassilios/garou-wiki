@@ -104,7 +104,7 @@ Each has a tribe and a blood: weak, true or strong.
 
 ### Where they come from
 
-- Blood relatives of a Garou are kin half the time, at creation and later.
+- Blood relatives of a Garou are kin half the time, at creation and later. A baby born to a Garou is always kin of its parent's tribe.
 - Kinfolk of a tribe come to join a colony that has a Garou, and so do wolves of the tribe.
 - The Kinfolk family and pack scenarios start with them.
 
@@ -127,7 +127,7 @@ chronicle, but not its totem's gifts.
 ## The First Change
 
 Some kinfolk could still Change. Nobody knows which until a colony Garou has spent three days
-within 12 cells of them; then the Kinfolk tab says whether the wolf could still wake.
+within 12 cells of them; then the Kinfolk tab says whether the wolf could still wake, or that it never will. Until then the tab shows how much longer it takes.
 
 For one who could, four moments can force it, each only once:
 
