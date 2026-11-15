@@ -164,7 +164,7 @@ reason when none is). Each is hosted once a year at most.
 | 60 | A Grand Moot of the host's tribe, kept the tribe's own way, then a council | 2 | a caern of level 3, a sept office held |
 | 80 | A Concolation: five elders speak, the great matter is voted, a war party sets out | 3 | a caern of level 4, an office, a host of rank 4; a season's notice |
 
-The preparation window lists meals for every guest and night and fighters on guard. The Wyrm may
+The preparation window lists meals for every guest and night. The Wyrm may
 strike on one night. Each tribe's Grand Moot opens with its custom: the Furies' sacred hunt, the
 Gnawers' feast and old debts, the Children of Gaia's meditation or revel, the Fianna's epics, the
 Fenris brawls and ordeals, the Walkers' planning meeting, the Talons' run with wolves, the Shadow
@@ -213,6 +213,8 @@ Hive. A threat hurts the prisoner's mood and makes it harder to recruit, but lea
 **Townsfolk.** Each person in a town answers one question, then wants three days before the next (a
 setting). You can ask:
 
+- **Small talk.** The weather, the neighbours, whatever is on their mind. It costs nothing, always
+  gets an answer, and can go on all night.
 - **What's the news?** Word of the world's septs, courts and cells.
 - **Where is...** Pick a place from what they could know of: a Wyrm nest (a sept's Garou and Kin,
   to a Garou), or another sept you don't know yet (Garou speaking to Garou). The question only

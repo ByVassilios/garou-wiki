@@ -67,7 +67,7 @@ A Garou who broke a tenet this season can be the subject of a
 | Tenet | Broken by | Honor | Wisdom |
 |---|---|---|---|
 | Garou do not mate with Garou | Two Garou becoming lovers or marrying | 3 | 2 |
-| Accept an honourable surrender | Killing a downed person, a prisoner, or an execution | 3 | 1 |
+| Accept an honourable surrender | Killing a downed person, a prisoner, or an execution. Fomori, Black Spiral Dancers and vampires who read as Wyrm don't count | 3 | 1 |
 | Do not eat the flesh of humans | Eating human flesh, or a meal made with it | 3 | 2 |
 | Keep the Veil closed | Each outsider who leaves remembering the Garou. See [The Veil](The-Veil-and-Septs.md#the-veil) | 2 | 2 |
 | Fight the Wyrm wherever it is | With Kindred loaded, striking someone fighting the colony's vampire, once a day | 2 | 0 |

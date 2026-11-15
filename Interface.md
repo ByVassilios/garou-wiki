@@ -92,7 +92,7 @@ stand with, and **Join a pack...**. See [Packs and kinfolk](Packs-and-Kinfolk.md
 
 ## The Sept tab
 
-On the bar at the bottom of the screen. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and chips at the top right of each window switch to the others; the Core setting **One bottom-bar button** turns that off. It shows the Veil's level and score and, once the colony
+On the bar at the bottom of the screen. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and a list down the left side of each window names every one with its pages, so a click opens any page of any of them; the Core setting **One bottom-bar button** turns that off. It shows the Veil's level and score and, once the colony
 has a caern, the sept's offices. Click an office to seat a Garou in it or leave it vacant. See
 [The colony as a sept](The-Veil-and-Septs.md#the-colony-as-a-sept).
 
