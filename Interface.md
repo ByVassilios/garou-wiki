@@ -79,6 +79,7 @@ a grey line under each roll, and a Gift's grimoire page has the formula in a box
 | A fetish (right-click) | Attune | Sit with it and wake its spirit. See [Fetishes and talens](Fetishes-and-Talens.md) |
 | A spirit (right-click) | Talk to ... | Ask a favor or a lesson. See [The Umbra and spirits](The-Umbra-and-Spirits.md#talking-and-chiminage) |
 | The caern | Cross the bridge | Sends everyone in the circle to the sept at the other end of the Opened Bridge |
+| A caravan at a hostile town | Sneak in | Walks the caravan into the town unseen, at night. See [Settings and FAQ](Settings-and-FAQ.md) |
 | A caravan at a sept | Rank challenge | Asks the elders to set a challenge. See [Rank challenges](The-Veil-and-Septs.md#rank-challenges) |
 | A caravan at a sept | Cross the bridge home | Takes the Opened Bridge back to the caern |
 | Misc build menu | Place of power | Marks the spot for a caern |

@@ -127,6 +127,14 @@ They're out of Gnosis. Walk them to a thin spot, the glowing places out in the w
 The Veil is falling. Deal with witnesses before they leave, keep Crinos out of sight of
 outsiders, and the score fades by a point a day.
 
+**Can I get into a hostile town without attacking it?**
+
+Yes. A caravan standing on any hostile town gets **Sneak in** beside Attack, at night only, whoever
+is in it. The caravan walks onto the town's map unseen, and the town's people and guns can't go for
+anyone they haven't found. A townsman with a clear view may notice something move, less often in
+the dark, and the town then searches round that spot. A searcher who comes close may find who is
+there. Attacking anyone gives the attacker away.
+
 **Will a town I visit again have the same people?**
 
 Yes. Every town the colony walks into keeps its people between visits, unless they died or left. A friendly town
