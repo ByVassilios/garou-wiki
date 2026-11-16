@@ -43,6 +43,7 @@ every Gift, rite, totem and fetish, each tab and menu, the events, and the setti
 | [The Umbra and spirits](The-Umbra-and-Spirits.md) | The Penumbra, stepping sideways, spirits and chiminage |
 | [The Wyrm](The-Wyrm.md) | Taint, fomori, banes, Black Spiral Dancers, Pentex |
 | [The Veil, septs and hunters](The-Veil-and-Septs.md) | Witnesses, the Veil, the septs, sept offices, hunters |
+| [The sworn sept](The-Sworn-Sept.md) | Pledging to one sept, its Garou by name, offices and duties, the elders, enemies inside, war |
 | [Kindred and Garou](Kindred-and-Garou.md) | What happens with The Rim by Night: Kindred loaded too |
 
 **Help**
