@@ -171,6 +171,18 @@ nobody there knows what they are, so the offer only speaks of a hurt stranger at
 your land with something following them. Taken in, they're the colony's first Garou. The stray
 cub has its own slider on the Event chances page.
 
+## The tavern
+
+A tavern counter (Furniture tab) works for a Garou colony too. Its **Guests** button lets in the
+nearest known, friendly sept's Kinfolk, and its Garou by tribe, besides townsfolk.
+
+- On a caern's map the tavern is a **Kin lodge**: Kinfolk guests stay half as long again, and now
+  and then one settles in the nearest town as a new Kinfolk contact.
+- A party of Garou guests sometimes tells of a Wyrm nest near the colony.
+- Garou hate Kindred, the Black Spirals and fomori, and smell what a guest is. Get of Fenris and Red
+  Talons hate the mortals as well. Mark the counter as neutral ground for the Litany's truce: a Garou
+  who kills under it leaves for the sept's judgment.
+
 [← Contents](README.md)
 
 ---
