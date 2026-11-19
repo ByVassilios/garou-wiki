@@ -77,6 +77,26 @@ A fomor, a First Team mercenary or another of the Wyrm's servants who gets away 
 the colony can come back as its nemesis: renamed, scarred, harder to hurt the way it was hurt, and
 with the Wyrm's next raid. A Garou who puts one down earns 3 Glory on top of the kill.
 
+## The Wyrm's Hunted
+
+The Garou Nation's list of the Wyrm's servants it most wants dead. Five names roam the world map,
+whether the colony has Garou or not. Only a colony the Nation knows is told of them: anyone else
+gets no letters, sees no marks and earns nothing for one.
+
+- **Who is on it.** Most are Black Spiral packs: an Adren or Athro Dancer with two to four more. One
+  name in four is a great Wyrm beast, a Nexus crawler or a Hellbeast, which comes alone and is far
+  past a pack of Garou alone. All of them shrug off half of every wound.
+- **The mark.** Each is a mark on the world map that moves every few days and shows only within 25
+  tiles of a home or a caravan. **Read the Wyrm's Hunted** on the Sept window's Overview opens the
+  list, which shows only what the colony knows. Rumours fill in the rest.
+- **Meeting one.** Send a caravan to its mark to hunt it. One within 12 tiles can come to the
+  colony: a pack that has never crossed it walks through unless harmed or touched by a Gift, and a
+  beast, or a pack that knows the colony, attacks.
+- **The reward.** The Garou who kills one earns 4 Glory (6 for a beast) and 1 Honor, and the sworn
+  sept gains 10 standing (without one, the Nation's goodwill rises by 10). The kill goes in the
+  Nation's chronicle and can be the subject of art.
+- **Setting.** **The Wyrm's Hunted** turns the list off.
+
 ## Raids
 
 - **Fomori raids**, **Black Spiral Dancer raids** (by night, rarer) and **First Team raids** are

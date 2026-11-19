@@ -56,6 +56,7 @@ Switching one off stops it from happening again. Anything already under way play
 | Setting | What it does | Default |
 |---|---|---|
 | The Wyrm attacks | Fomori, Black Spiral Dancers, Pentex First Teams and banes come for colonies with Garou, and Pentex opens plants nearby | On |
+| The Wyrm's Hunted | Five of the Wyrm's servants roam the world map, with Renown for each. Off, they leave the map | On |
 | The Veil | Outsiders who keep their wits after seeing a Garou spread the word, and hunters come | On |
 | Veil damage | Scales how much the Veil score rises for each outsider who leaves with what they saw, 0% to 300% | 100% |
 | Veil healing | Scales how fast the Veil score falls back each day, 0% to 300% | 100% |
