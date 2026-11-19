@@ -49,6 +49,16 @@ Garou; the rest work on the user.
 - **The Wyrm**: Pentex plants and Black Spiral Dancers carry tainted ones.
 - **Making them**, with the Rite of the Fetish or the Rite of Binding.
 
+## Spirits that tire
+
+A few fetishes hold a spirit that tires. They show their uses left on the item, and once
+the uses are gone the power stays greyed until the spirit wakes again:
+
+- **The moon-tooth knife** wakes once, then not again until the next full moon.
+- **The Rage-stone** wakes once, then not again until the moon its bearer was born under.
+- **The bane-glass** has three looks. After that, its bearer can feed it a point of Gnosis for each
+  one more, with the button under its power.
+
 ## Making them
 
 Both rites need a spirit of the item's kind within 8 cells of the ritemaster, willing to go in,
@@ -94,6 +104,9 @@ The vessels are ordinary materials, named on the item's page.
 | <img src="img/icons/Things_WTA_Weapon_GrandKlaive.png" width="32" height="32"> | **Grand klaive** | An immense silver sword with a war spirit and a fire spirit bound in it: the klaive of a legendary hero. Its cuts are silver, and woken the fire spirit shields its Garou from flame. Carrying one dulls its Garou's Gnosis by two. |
 | <img src="img/icons/Things_WTA_Weapon_Jarlhammer.png" width="32" height="32"> | **Jarlhammer** | One of the seven great hammers of the Get of Fenris, silver-laced iron with spirits of war and silver in it. Its blows are silver, and woken it blazes with fire. |
 | <img src="img/icons/Things_WTA_Item_Runestones.png" width="32" height="32"> | **Runestones** | Carved divination stones with a spirit of time bound in them. Cast and woken, they show what is to come. |
+| <img src="img/icons/Things_WTA_Weapon_FangDagger.png" width="32" height="32"> | **Moon-tooth knife** | A knife ground from a wolf's tooth, with a Lune bound in it. Woken, it makes its bearer's blows bite deeper for two hours. The Lune wakes once, then sleeps until the next full moon. |
+| <img src="img/icons/Things_WTA_Item_Runestones.png" width="32" height="32"> | **Rage-stone** | A red river stone that holds a little fury. Woken, it gives its bearer a point of Rage. It fills again under the moon its bearer was born under. |
+| <img src="img/icons/Things_WTA_Item_PocketMirror.png" width="32" height="32"> | **Bane-glass** | A shard of smoked glass with a watcher spirit in it. Looked through, it shows the Umbra's edge for a day, banes and all. Three looks, and then it needs a point of Gnosis for each one more. |
 
 ## Every talen
 
