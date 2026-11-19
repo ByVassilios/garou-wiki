@@ -46,8 +46,18 @@ Litany for each such witness who gets away.
 | Hunted | 50 | The stories reached hunters. Bands of them come by day |
 | Exposed | 80 | The hunting order sends everything it has. The septs think 30 less of you |
 
-A letter marks each level. The Garou tab shows the score. The setting "The Veil" turns witnesses
-and the hunters they bring off.
+A letter marks each level, and an alert stays up from Rumours on. The Garou tab shows the score.
+The setting "The Veil" turns witnesses and the hunters they bring off.
+
+### The sept asks
+
+Once 12 points of the Veil are laid on one Garou, your sworn sept (or the nearest one you know)
+sends a letter asking who did it, at most once every 15 days:
+
+- **Name them.** The sept deals with it and cleans up half of what that Garou cost the Veil. The
+  Garou is sore about it for ten days. The Nation thinks 5 better of you.
+- **Take the blame as a colony.** The Nation thinks 5 less of you.
+- **Refuse.** The Nation thinks 15 less of you.
 
 ## Hunters
 
