@@ -124,6 +124,21 @@ and the village is destroyed. It never comes back, and every Garou and kin colon
 **Join a pack...** on the Kinfolk tab lets kin stand with a pack. They share its company and its
 chronicle, but not its totem's gifts.
 
+### Kinfolk in towns
+
+Kinfolk who live in ordinary towns can still answer to the Garou. They show on the **Contacts** page of the Sept tab,
+under the town they live in. There are two ways to get them:
+
+- When a caravan with one of the colony's Kinfolk stands at a town, **Kinfolk: live here** leaves them there for good.
+- When the colony first meets a sept, a few of its families turn out to live in the towns nearest it.
+
+Blood holds them, so they never drift away, but they go down with their town. Once a week each can be asked for one
+favour:
+
+- **Goodwill:** they put in a good word, and the town's faction thinks better of the colony.
+- **Wyrm word:** they pass on what the town whispers, and a Pentex site or a fouled factory near the colony comes to
+  light.
+
 ## The First Change
 
 Some kinfolk could still Change. Nobody knows which until a colony Garou has spent three days
