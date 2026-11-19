@@ -79,6 +79,30 @@ Rank matters for:
   rank past Cliath, of that rank where its lists have one;
 - the pack's alpha and the sept's offices.
 
+## Ambitions
+
+Each colony Garou works toward one goal at a time, taken from the deeds Renown is given for. A
+letter offers three, and one of them suits the Garou's auspice or tribe where one fits. The tab
+shows the goal and how far along it is, and so does the Quests tab. Only what happens after it is
+taken counts. A met ambition pays its experience and a point of temporary Renown of its own kind
+the same day, and a new letter comes the day after. There is no deadline and no failure. Drop one,
+or turn all three down, and another letter comes in five days.
+
+| Goal | Who draws it | What to do | Pays |
+|---|---|---|---|
+| **Slay the Wyrm's own** | Anyone | Kill two creatures of the Wyrm: banes, fomori, Black Spiral Dancers or worse. | 5 |
+| **Cleanse the land** | Anyone | Perform the Rite of Cleansing on a tainted place or thing. | 5 |
+| **Rites for the sept** | Anyone | Lead two rites, any rites at all, as their ritemaster. | 3 |
+| **Hold the caern** | Anyone | Be at home when enemies reach the colony's caern, and still have it once they're gone. | 7 |
+| **Teach a Gift** | Anyone | Teach a Gift you know to another Garou. | 5 |
+| **Win a challenge** | Anyone | Beat a Garou who comes to challenge you. | 5 |
+| **Keep the Litany** | Anyone | Go a whole season without breaking the Litany. | 5 |
+| **A beast of the Wyrm** | Ahroun, Get of Fenris | Kill one of the Wyrm's beasts: a twisted animal, a bane in beast shape, a Wyrm monster. | 7 |
+| **A tale at the moot** | Galliard, Fianna | Host a moot, where the sept hears the colony's tales. | 5 |
+| **Bind a spirit** | Theurge, Uktena | Perform the Rite of Binding. | 5 |
+| **Judge a dispute** | Philodox, Silver Fangs | Settle a dispute the sept brings to you. | 5 |
+| **Outwit a foe** | Ragabash, Children of Gaia | Take two enemies alive, beaten and made to yield. | 5 |
+
 ## Experience
 
 A Garou earns experience:
