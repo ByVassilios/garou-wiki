@@ -19,7 +19,7 @@ shrink a size. A sept that falls frees the colony with a letter.
 
 ## People
 
-The People page lists every named Garou: office, tribe and regard, with a filter for friends, rivals and
+The People page lists every named Garou: office, pack (tribe for those in none) and regard, with a filter for friends, rivals and
 enemies. Click a Garou to see their personality, means, goal, friends and dislikes. You only see a Garou's personality and means once you've **met** them: talked to them in their
 town or finished a mission they gave.
 

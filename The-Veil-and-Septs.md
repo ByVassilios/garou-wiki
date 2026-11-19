@@ -268,6 +268,30 @@ for one of its Garou who has a full ten temporary Renown or enough for the next 
 plus rank against 7. Winning does what the Rite of Accomplishment does. Losing costs 1 Honor, a
 botch 3.
 
+### Packs of the sept
+
+A sept's people split into packs: two to four, each around its strongest member, the elder's own first. Each
+has a temperament that sets what it wants, what it pays in, which others it gets on with and which it feuds with. The
+**Packs** page of the sept's window shows them as cards: temperament, members, power out of 20 in ten cells, and a bar
+for what they think of you. While you're sworn there, that bar is the average regard of its members.
+
+Pick one to see its leader, members, allies and feuds, and **Ask them for work**: one of their own missions, once every
+five days, shown in the Quests tab to accept there. Done, the pack gains a point of power and 2 regard. A
+pack that thinks -5 of you or worse gives no work.
+
+When a rival comes within two power of the elder's pack and stays there for 30 days, it challenges the elder for the sept's lead, as W20's challenge for rank. The
+showdown comes 20 to 40 days later: a duel or the moot's word. Each side's chance is its power against the other's; a deciding mission
+done for a side counts two. **Back** a side from the page: 6 standing if it wins, 6 lost if it doesn't, and the winners'
+regard moves the same way. Plotters who win take the lead, and nobody plots again for 60 days.
+
+| Temperament | Wants | Missions |
+|---|---|---|
+| Warlike | the Wyrm's servants dead | a bane for the pack, the watch in the bawn |
+| Wise | the spirits heard, the lore kept | word to another sept, a bane |
+| Cunning | to win without a fair fight | word to another sept, a bane |
+| Traditional | the Litany kept, the caern held | the watch in the bawn, word to another sept |
+| Wild | to run free and fight | a bane |
+
 ## The colony as a sept
 
 Once the colony has a caern, it's a sept. The **Sept** tab, on the bar at the bottom, shows the
