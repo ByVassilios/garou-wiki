@@ -46,7 +46,7 @@ Litany for each such witness who gets away.
 | Hunted | 50 | The stories reached hunters. Bands of them come by day |
 | Exposed | 80 | The hunting order sends everything it has. The septs think 30 less of you |
 
-A letter marks each level. The Sept tab shows the score. The setting "The Veil" turns witnesses
+A letter marks each level. The Garou tab shows the score. The setting "The Veil" turns witnesses
 and the hunters they bring off.
 
 ## Hunters
@@ -102,8 +102,8 @@ as a letter in the Quests tab that you accept or refuse; each has its own switch
   front, and kept safe to the end the Ronin joins you); a Garou pinned with silver is left at the
   map's edge for hunters, and once carried to a bed the silver comes out and the hunters come
   looking. A life saved is 3 Honor, and the sept owes you aid.
-- **The septs' debt.** Each debt is one pack sent to fight beside you. Call it in from the Sept tab
-  with "Call in the septs' debt".
+- **Help owed.** Each debt is one pack sent to fight beside you. The Overview page of the Garou tab
+  shows how many the septs owe on its **Help owed** row; **Call in** sends for one.
 - **Theurges.** Your caern and fetishes draw Theurges of other septs. A caern level counts 5, each
   fetish 2 a level, talens 1 each up to 5. At 6, 15 and 30 points a Theurge asks to commune at the
   caern or sit with a fetish for 2, 4 or 6 nights, for 1 to 3 Honor and goodwill.
@@ -154,7 +154,7 @@ or failed, it falls by 1.
 ### Hosting a moot
 
 With a caern and the Nation's goodwill, the colony can host moots. A sept writes when one opens,
-and the Sept tab has an "Ask to host a moot" link for the highest one open now (greyed with the
+and the Garou tab has an "Ask to host a moot" link for the highest one open now (greyed with the
 reason when none is). Each is hosted once a year at most.
 
 | Goodwill | Moot | Nights | Needs |
@@ -177,7 +177,7 @@ The Concolation's vote can set the colony on a Pentex or bane nest mission.
 
 A guest who dies or is hurt in your care costs 10 goodwill and the sept's chronicle remembers it.
 
-The Nation goes on without you, and the Sept tab keeps its news. Elders are challenged, cubs go
+The Nation goes on without you, and the Garou tab's Chronicle page keeps its news. Elders are challenged, cubs go
 through the First Change, and packs go after the Wyrm and don't come back. A caern can grow
 stronger or lose a level to banes, and a caern that loses its last level falls: the sept is gone
 and Pentex builds on the ground. Pentex also opens plants near septs, and each one costs the

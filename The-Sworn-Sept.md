@@ -19,8 +19,8 @@ shrink a size. A sept that falls frees the colony with a letter.
 
 ## People
 
-The People page lists every named Garou: office, tribe, personality, means and regard, with a filter for friends,
-rivals and enemies. You only see a Garou's personality and means once you've **met** them: talked to them in their
+The People page lists every named Garou: office, tribe and regard, with a filter for friends, rivals and
+enemies. Click a Garou to see their personality, means, goal, friends and dislikes. You only see a Garou's personality and means once you've **met** them: talked to them in their
 town or finished a mission they gave.
 
 | Regard event | Change |
@@ -112,6 +112,8 @@ A war runs against the Wyrm's nearest settlement, a Hive or a Black Spiral den, 
 Its score starts at 50: a season of incursions, two of raids on their warrens and labs while you hold your bawn, Kin
 village, guard post and fetish hoard, then the final assault at 70, the desperate defence at 30, or a truce. With
 the Wyrm turned off in settings there's no war.
+
+The skirmishes come a few weeks apart. A war mission you let lapse is fought without you: the sept's members against the enemy's, by their strength, and members can die in it. Hover over the stages, the score and the holdings on the War page for what each one needs.
 
 ## Settings
 

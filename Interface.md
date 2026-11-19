@@ -18,7 +18,7 @@ subject.
 |---|---|
 | Who they are | Tribe and its totem, breed, auspice and the moon they were born under, tonight's moon, and their Merits and Flaws |
 | Rage, Gnosis and Willpower | The permanent ratings as dots, with what's there now in brackets, each with a **+** that spends experience (Rage and Willpower cost the current rating, Gnosis twice it). Ancestors, with a **+** too |
-| Habits | Shift in fights, resist frenzy and the resting form, the same switches as on the form bar. Click one to change it |
+| Habits | Shift in fights, the Willpower habit and the resting form, the same switches as on the form bar. Click one to change it |
 | Rank and Renown | The rank (hover for what the next one needs), and Glory, Honor and Wisdom with temporary points in brackets |
 
 ### Attributes
@@ -59,7 +59,7 @@ See [Packs and kinfolk](Packs-and-Kinfolk.md).
 | Fury | 1 Rage for four hours of faster blows |
 | End ... | Ends a Gift that's running |
 
-**The form bar** has a button per form and two switches, **In fights** and **Resist frenzy**.
+**The form bar** has a button per form, the **In fights** switch and the **Willpower** habit.
 See [Forms and shifting](Forms-and-Shifting.md).
 
 **Gift tiles** sit beside it: one tile for the breed's Gifts, one for the auspice's, one for the
@@ -91,11 +91,16 @@ Select a kinfolk human or wolf. **Blood** shows the tribe, the strength of the b
 they could still Change, and which moments could still wake it. **Pack** shows the pack they
 stand with, and **Join a pack...**. See [Packs and kinfolk](Packs-and-Kinfolk.md#kinfolk).
 
-## The Sept tab
+## The Garou tab
 
-On the bar at the bottom of the screen. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and a list down the left side of each window names every one with its pages, so a click opens any page of any of them; the Core setting **One bottom-bar button** turns that off. It shows the Veil's level and score and, once the colony
-has a caern, the sept's offices. Click an office to seat a Garou in it or leave it vacant. See
-[The colony as a sept](The-Veil-and-Septs.md#the-colony-as-a-sept).
+On the bar at the bottom of the screen. While the colony has two or more kinds from the Rim by Night mods, only the window used last keeps its button, and a list down the left side of each window names every one with its pages, so a click opens any page of any of them; the Core setting **One bottom-bar button** turns that off. Its pages:
+
+| Page | What it shows |
+|---|---|
+| Overview | The Veil's level and score and, once the colony has a caern, the sept's offices. Click an office to seat a Garou in it or leave it vacant. See [The colony as a sept](The-Veil-and-Septs.md#the-colony-as-a-sept) |
+| Septs | Each sept the colony knows, nearest first, with who leads it; hover a row for how far away it is. **Open** opens the sept's window; a click on the rest of the row finds it on the world map |
+| Chronicle | The Garou Nation's news, newest first. Click an entry to find the sept |
+| Our story | The colony's own Garou: frenzies, First Changes, ranks won, rites led and Wyrm creatures killed, newest first. Buttons over the list show one Garou's lines; click a line to find them |
 
 The moon calendar, opened from the moon beside the clock, lists the quadrum's fifteen nights. Each night shows its moon,
 the auspice it gives, the nights for Caern Building, the moot and the season's rite, and the full

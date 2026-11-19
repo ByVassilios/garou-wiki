@@ -23,8 +23,8 @@ Flaw Short Fuse takes two off, and the setting "Frenzy difficulty" moves every r
 - a duel for the pack's lead;
 - with Kindred loaded, a vampire drinking from them or feeding in front of them.
 
-**Holding it off.** With **Resist frenzy** on (on the form bar, on by default), a point of
-Willpower stops it. Nothing stops the Thrall.
+**Holding it off.** With the **Willpower** habit on To resist frenzy or Freely (on the form bar;
+To resist frenzy by default), a point of Willpower stops it. Nothing stops the Thrall.
 
 **Berserk.** The Garou takes the war form and attacks: strangers first, kinfolk and packmates
 last. A Garou whose permanent Rage is higher than their Gnosis goes for packmates too. It lasts

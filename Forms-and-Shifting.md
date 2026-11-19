@@ -51,7 +51,7 @@ The form bar has two switches.
 | Switch | What it does |
 |---|---|
 | In fights | When a fight starts, or when drafted with enemies on the map, the Garou changes form for a point of Rage, picked as below. Drafting with no enemies on the map changes nothing. An hour after the fight they go back to the resting form. On by default |
-| Resist frenzy | Spend a point of Willpower to hold off a frenzy when Rage boils over. It does nothing against the Thrall of the Wyrm. On by default |
+| Willpower | When the Garou spends Willpower. **Never**; **To resist frenzy** (the default), a point holds off a frenzy when Rage boils over, but never the Thrall of the Wyrm; **Freely**, which also spends a point on each Gift roll for one sure success. A save from before this habit keeps what the old Resist frenzy switch said |
 
 The fight form is the first of these that fits:
 
