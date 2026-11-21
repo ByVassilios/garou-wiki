@@ -1,7 +1,7 @@
 # The sworn sept
 
 Pledge the colony to one sept and its Garou stop being names in the chronicle. Each has a personality, means, a goal
-of its own and an opinion of you that moves with what you do. They hand you work, owe you favours, run beside you
+of its own and an opinion of you that moves with what you do. They hand you work, owe you debts, run beside you
 and, if they come to hate you, work against you.
 
 ## Pledging
@@ -14,8 +14,20 @@ The Sept window's Nation section names the nearest sept the colony knows, with *
 One sept at a time. Its roster fills to 8 to 12 named Garou from its warriors, in packs of two and three; packmates
 are friends. New pages appear on the Sept window's rail: **People**, **Council** and, while a war runs, **War**.
 
-Leaving costs 20 goodwill with the Nation. Loyal Garou drop to -5 regard, and the favours the sept's Garou owe you
+Leaving costs 20 goodwill with the Nation. Loyal Garou drop to -5 regard, and the debts the sept owes you
 shrink a size. A sept that falls frees the colony with a letter.
+
+## Debts
+
+Every sept the colony knows can owe it debts, trivial, minor, major or life, as Kindred courts do. A sept's mission
+pays one when it's done: trivial for an early colony, minor once raids come at a mid-game size, major for the hardest.
+Once sworn, the sept's Garou owe you debts for their own errands too.
+
+Spend them on the **Debts** page of the Garou tab. **Ask** lists what a sept does for a debt, and a bigger debt covers a
+smaller service: two talens (trivial), a few of its fighters at the door or the elders teaching your Garou 3
+experience each (minor), a fetish (major), one of its five greatest fetishes (life). **Ledger** lists each debt with
+who owes it and why; **Call in** on a row picks what that debt pays for. Trained wolves bought from a sept are paid in
+debts too. Leaving a sworn sept shrinks its debts a size.
 
 ## People
 
@@ -40,20 +52,20 @@ Regard drifts a point toward 0 every season.
 | Personality | How they pay and behave |
 |---|---|
 | Greedy | silver x0.7, goodwill x1.5 |
-| Cautious | silver and goodwill x1.25, but the biggest favour they'll owe is a size smaller |
+| Cautious | silver and goodwill x1.25, but the biggest debt they'll owe is a size smaller |
 | Loyal | everything x1.25 while you never cross them or their friends; betrayal makes an enemy for good |
-| Conniving | pays with a favour another Garou owes them |
+| Conniving | pays with a debt another Garou owes them |
 | Cowardly | one more open mission, aimed at their rivals; pay x1.2 |
 | Proud | goodwill x1.5, silver x0.8; refusals cost 3 regard |
 | Zealous | only the war on the Wyrm; those pay x1.5 |
-| Generous | everything x1.3; now and then asks a favour back |
+| Generous | everything x1.3; now and then asks one back |
 | Vengeful | bad blood never fades; an enemy at -5 |
 | Rage-driven | asks only for fights, and pays in Glory: a point per 500 silver of the job to each colony Garou there |
 | Harano-struck | asks for one mission fewer, all cleansing fights; regard grows half again as fast |
 
 ### Means and goals
 
-Means come from the Garou's office, wealth and the favours owed to them: a poor one offers one mission at a time
+Means come from the Garou's office, wealth and the debts owed to them: a poor one offers one mission at a time
 and pays x0.6, a comfortable one two at x1.0, a rich one three at x1.4.
 
 Each Garou wants something, hidden until they count you a friend (regard +6) or you have a hold over them. A goal
@@ -65,13 +77,13 @@ keep it. Keeping it is a betrayal.
 | Collector | a fetish |
 | Lore hunter | a fragment of the Silver Record (teaches a rite) or a Black Spiral's confession (experience) |
 | Power seeker | silver by its means, and its vote for a year |
-| Revenge | a major favour and the enemy's goods |
+| Revenge | a major debt and the enemy's goods |
 | Freedom | its regard stays at +6 or more for good |
-| Childe | a minor favour now, its cub on your side later |
+| Childe | a minor debt now, its cub on your side later |
 | Cleansing the Wyrm | each colony Garou learns, 3 experience |
 | Kingmaker | the new Sept Leader starts at regard +6 |
 | Homecoming | another sept, met |
-| Buried secret | a life favour |
+| Buried secret | a life debt |
 
 ## Offices
 
@@ -98,7 +110,7 @@ duty is due, and an alert warns two days ahead.
 
 Each season the Sept Leader and the elders (rank 4 and up) vote on one or two motions: cubs with leave or freely, war
 on the Wyrm or waiting, hunting outsiders, the share owed to the caern. A colony Sept Leader votes too, and a Garou
-may offer a minor favour for your vote.
+may offer a minor debt for your vote.
 
 ## Enemies inside
 

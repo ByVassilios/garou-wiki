@@ -112,8 +112,8 @@ as a letter in the Quests tab that you accept or refuse; each has its own switch
   front, and kept safe to the end the Ronin joins you); a Garou pinned with silver is left at the
   map's edge for hunters, and once carried to a bed the silver comes out and the hunters come
   looking. A life saved is 3 Honor, and the sept owes you aid.
-- **Help owed.** Each debt is one pack sent to fight beside you. The Overview page of the Garou tab
-  shows how many the septs owe on its **Help owed** row; **Call in** sends for one.
+- **Fighters on call.** Each debt is one pack sent to fight beside you. The Overview page of the Garou tab
+  shows how many the septs owe on its **Fighters on call** row; **Call in** sends for one.
 - **Theurges.** Your caern and fetishes draw Theurges of other septs. A caern level counts 5, each
   fetish 2 a level, talens 1 each up to 5. At 6, 15 and 30 points a Theurge asks to commune at the
   caern or sit with a fetish for 2, 4 or 6 nights, for 1 to 3 Honor and goodwill.

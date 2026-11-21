@@ -89,7 +89,9 @@ gets no letters, sees no marks and earns nothing for one.
 - **The mark.** Each is a mark on the world map that moves every few days and shows only within 25
   tiles of a home or a caravan. **Read the Wyrm's Hunted** on the Sept window's Overview opens the
   list, which shows only what the colony knows. Rumours fill in the rest.
-- **Meeting one.** Send a caravan to its mark to hunt it. One within 12 tiles can come to the
+- **Meeting one.** Send a caravan to its mark to hunt it. It's found at its camp, a Black Spiral
+  pack in its Hive, a beast in the caved-in lodge it made its den, and holds it a few hours before
+  coming out at you. One within 12 tiles can come to the
   colony: a pack that has never crossed it walks through unless harmed or touched by a Gift, and a
   beast, or a pack that knows the colony, attacks.
 - **The reward.** The Garou who kills one earns 4 Glory (6 for a beast) and 1 Honor, and the sworn
