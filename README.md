@@ -1,5 +1,7 @@
 # The Rim by Night: Garou
 
+> **This wiki has moved** to [The Rim by Night wiki](https://byvassilios.github.io/rim-by-night-wiki/garou/), one site for every mod in the series. This copy is no longer updated.
+
 The Rim by Night: Garou brings Werewolf: The Apocalypse, 20th Anniversary Edition, to RimWorld.
 Your colonists can be Garou: werewolves of the thirteen tribes, with five forms, Rage and Gnosis,
 Gifts taught by spirits, rites, packs and totems. Around them are kinfolk, caerns, the spirit
